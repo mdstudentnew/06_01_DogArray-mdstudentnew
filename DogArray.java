@@ -15,7 +15,7 @@ public class DogArray
     }
 
     /**
-     *  Returns the name of the youngest dog in the given array
+     *  Returns the name of the youngest dog in the given array_
      */
     public static String getYoungestName(Dog[] dogs)
     {
